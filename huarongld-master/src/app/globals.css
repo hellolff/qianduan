@@ -1,0 +1,127 @@
+@import 'tailwindcss';
+@plugin '@tailwindcss/typography';
+
+:root {
+  /* 基础颜色 */
+  --background: #ffffff;
+  --foreground: #0f172a; /* Slate-900: 更现代的深色文字 */
+
+  /* 主题色 - 现代商务蓝 */
+  --primary: #2563eb;
+  --primary-foreground: #ffffff;
+
+  /* 响应式字体尺寸 (Fluid Typography)
+     使用 clamp 实现平滑缩放，无需频繁断点
+  */
+  --font-12: 12px;
+  --text-xs: clamp(0.75rem, 0.7rem + 0.25vw, 0.875rem);
+  --text-sm: clamp(0.875rem, 0.8rem + 0.375vw, 1rem);
+  --text-base: clamp(1rem, 0.95rem + 0.25vw, 1.125rem);
+  --text-lg: clamp(1.125rem, 1.05rem + 0.375vw, 1.25rem);
+  --text-xl: clamp(1.25rem, 1.15rem + 0.5vw, 1.5rem);
+  --text-2xl: clamp(1.5rem, 1.35rem + 0.75vw, 1.875rem);
+  --text-3xl: clamp(1.875rem, 1.65rem + 1.125vw, 2.25rem);
+  --text-4xl: clamp(2.25rem, 2rem + 1.25vw, 3rem);
+  --text-5xl: clamp(3rem, 2.5rem + 2.5vw, 3.75rem);
+
+  /* 响应式间距 (Fluid Spacing) */
+  --space-xs: clamp(0.5rem, 0.4rem + 0.5vw, 0.75rem); /* 8px -> 12px */
+  --space-sm: clamp(1rem, 0.8rem + 1vw, 1.5rem); /* 16px -> 24px */
+  --space-md: clamp(1.5rem, 1.2rem + 1.5vw, 2.25rem); /* 24px -> 36px */
+  --space-lg: clamp(2.5rem, 2rem + 2.5vw, 3.75rem); /* 40px -> 60px */
+  --space-xl: clamp(4rem, 3.2rem + 4vw, 6rem); /* 64px -> 96px */
+  --space-2xl: clamp(6rem, 4.8rem + 6vw, 9rem); /* 96px -> 144px */
+
+  /* 容器宽度 */
+  --container-width: 1400px;
+  --container-padding: clamp(1.25rem, 4vw, 3rem);
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-primary: var(--primary);
+  --color-primary-foreground: var(--primary-foreground);
+
+  --font-sans: var(--font-geist-sans), ui-sans-serif, system-ui, sans-serif;
+  --font-mono: var(--font-geist-mono), ui-monospace, SFMono-Regular, monospace;
+
+  /* 扩展自定义尺寸 */
+  --text-fluid-xs: var(--text-xs);
+  --text-fluid-sm: var(--text-sm);
+  --text-fluid-base: var(--text-base);
+  --text-fluid-lg: var(--text-lg);
+  --text-fluid-xl: var(--text-xl);
+  --text-fluid-2xl: var(--text-2xl);
+  --text-fluid-3xl: var(--text-3xl);
+  --text-fluid-4xl: var(--text-4xl);
+  --text-fluid-5xl: var(--text-5xl);
+
+  --spacing-fluid-xs: var(--space-xs);
+  --spacing-fluid-sm: var(--space-sm);
+  --spacing-fluid-md: var(--space-md);
+  --spacing-fluid-lg: var(--space-lg);
+  --spacing-fluid-xl: var(--space-xl);
+  --spacing-fluid-2xl: var(--space-2xl);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background: #0f172a;
+    --foreground: #f8fafc;
+  }
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: var(--font-sans);
+  line-height: 1.5;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* 实用工具类 */
+.container-responsive {
+  width: 100%;
+  max-width: var(--container-width);
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: var(--container-padding);
+  padding-right: var(--container-padding);
+}
+
+/* 现代排版样式重置 */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  line-height: 1.2;
+  font-weight: 700;
+  letter-spacing: -0.025em;
+}
+
+/* 隐藏滚动条 */
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+
+.no-scrollbar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+/*
+h1 {
+  font-size: var(--text-5xl);
+} */
+/* h2 {
+  font-size: var(--text-4xl);
+}
+h3 {
+  font-size: var(--text-3xl);
+}
+h4 {
+  font-size: var(--text-2xl);
+} */

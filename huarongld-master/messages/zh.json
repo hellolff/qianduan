@@ -1,0 +1,326 @@
+{
+  "Metadata": {
+    "brandName": "华融联大",
+    "title": "华融联大（重庆）科技有限公司 - 中国汽车产业出海生态平台",
+    "description": "华融联大专注于整车销售、汽车零部件、定制车及全球汽车产业服务。作为中国汽车产业出海的推动者，我们提供全链路解决方案，覆盖全球80+国家地区。",
+    "keywords": "华融联大, 汽车出口, 整车销售, 汽车零部件, 新能源汽车, 汽车出海, 汽车供应链"
+  },
+  "Navigation": {
+    "home": "首页",
+    "carSales": "整车销售",
+    "autoParts": "汽车零部件",
+    "news": "新闻动态",
+    "globalCooperation": "全球合作",
+    "about": "关于华融",
+    "contactUs": "联系我们"
+  },
+  "Header": {
+    "slogan": "共生共荣 携手同行"
+  },
+  "Footer": {
+    "brandTitle": "华融联大",
+    "description": "中国汽车产业出海生态平台的构建者与赋能者，助力中国汽车产业全球化布局。",
+    "wechat": "微信视频号",
+    "quickLinks": "快速连接",
+    "serviceAreas": "服务领域",
+    "contact": "联系我们",
+    "address": "重庆市两江新区宝圣湖街道食品城大道18号13栋5单元402",
+    "email": "luoyun@huarongld.com",
+    "phone": "023-6747-2353",
+    "copyright": "© 2025 华融联大有限公司 版权所有 ",
+    "link_home": "首页",
+    "link_about": "关于华融",
+    "link_cases": "成功案例",
+    "link_carSales": "整车销售与定制车",
+    "link_autoParts": "汽车零部件",
+    "link_globalCooperation": "全球合作"
+  },
+  "Home": {
+    "slide1_title": "整车出口全链路服务商\n打造全球贸易新引擎",
+    "slide1_desc": "直采、代采、定制、金融、物流、规模化采购成本降低20%",
+    "slide2_title": "全球服务 使命必达",
+    "slide2_desc": "连接五大洲关键市场，构建高效服务网络",
+    "slide3_title": "零配件种类超20万种",
+    "slide3_desc": "打造全场景覆盖的供应链护城河",
+    "slide4_title": "成为全球一流数字低碳出行生态平台\n中国汽车产业出海推动者",
+    "slide4_desc": "立足全球视野，打造汽车产业出海全链路解决方案"
+  },
+  "CompanyIntro": {
+    "title": "全球汽车行业信赖之选",
+    "subtitle": "助力中国汽车品牌闪耀国际市场",
+    "description": "华融联大（重庆）科技有限公司是一家综合性汽车产业服务公司，专注于整车销售（含新能源汽车）、交通出行运营、专用车辆定制、汽车零部件销售、汽车拆解与再制造、以及汽车后市场服务与营销咨询，致力于打造一个高度融合、高效协同的汽车产业生态链闭环。",
+    "stat_dealers_label": "合作经销商",
+    "stat_countries_label": "覆盖国家地区",
+    "stat_export_label": "2024年出口车",
+    "stat_parts_label": "汽车零部件种类",
+    "image_caption": "乌兹别克斯坦4S门店"
+  },
+  "Solutions": {
+    "title": "全价值链服务解决方案",
+    "subtitle": "二大赛道助力中国汽车企业布局全球",
+    "card1_title": "整车销售与定制",
+    "card1_desc": "提供多个品牌、多款车型，涵盖轿车、皮卡、SUV、商用车，满足了全球客户多样化需求",
+    "card1_link": "查看详情",
+    "card2_title": "汽车零部件销售",
+    "card2_desc": "与主机厂和配套厂家深度合作，具备稳定持续的零部件供应种类突破20万+",
+    "card2_link": "查看详情"
+  },
+  "SuccessCases": {
+    "title": "成功案例",
+    "subtitle": "西伯利亚寒流挡不住我们的履约铁律，赤道骄阳淬炼着品质勋章，每一份及时满意的订单交付，都是铸就汽车出海的责任担当。每一份签约都是全球客户的信任彰显",
+    "read_more": "阅读更多",
+    "view_more": "查看更多"
+  },
+  "StrategicPartners": {
+    "title": "战略合作伙伴",
+    "subtitle": "携手国内主流的主机品牌长安民生物流，三羊马物流、中外运、中国进出口集团公司建立了战略合作"
+  },
+  "GlobalNetwork": {
+    "title": "全球业务网络覆盖",
+    "description": "我们在全球建立了完善的业务网络和合作伙伴关系，实现了全球80+国家地区业务布局，覆盖亚洲、欧洲、北美、南美、非洲和大洋洲，为汽车产业链提供全方位的国际化服务支持，助力中国汽车品牌走向世界。",
+    "stat_countries": "国家覆盖",
+    "stat_outlets": "服务网点",
+    "stat_partners": "全球合作伙伴",
+    "stat_satisfaction": "客户满意度"
+  },
+  "NewsInsights": {
+    "title": "行业洞察与最新动态",
+    "subtitle": "掌握全球汽车出海前沿趋势",
+    "read_more": "阅读更多",
+    "view_more": "查看更多"
+  },
+  "AutoParts": {
+    "banner_title": "汽车零部件",
+    "banner_subtitle": "全球合作 模型供应",
+    "banner_desc": "与主机厂和配套厂家深度合作 供应20万+种零部件",
+    "GlobalMap": {
+      "title": "汽配区域分解地图",
+      "subtitle": "精工工艺，原厂级品质，品质无忧",
+      "stats": {
+        "middle_east": "中东",
+        "latin_america": "拉丁美洲",
+        "africa": "非洲",
+        "southeast_asia": "东南亚"
+      }
+    },
+    "PartsCatalog": {
+      "title": "常用零部件目录",
+      "subtitle": "品质源于细节 信心源于保障"
+    },
+    "InteriorAccessories": {
+      "title": "车辆内饰配件",
+      "subtitle": "原厂定制 尊贵之选 / 导航可用 安装便捷"
+    }
+  },
+  "GlobalCooperation": {
+    "banner_title": "合作共赢",
+    "banner_subtitle": "优势互补聚合力，互利共赢谋发展",
+    "banner_desc": "合作共赢，让价值倍增",
+    "CooperationModels": {
+      "title": "合作模式",
+      "subtitle": "我们面向全球，诚选各界，开放包容，共谋共赢发展，涵盖全球伙伴轨道的方方面面，勇于开拓，共赴远航",
+      "agent": {
+        "title": "代理合作",
+        "desc": "诚邀海外代理商，共同开拓市场，共享发展成果。",
+        "btn": "开启合作之旅"
+      },
+      "joint_venture": {
+        "title": "合资合作",
+        "desc": "合资建厂，实现本地化生产，降低成本，提高竞争力。",
+        "btn": "开启合作之旅"
+      },
+      "alliance": {
+        "title": "海川联盟",
+        "desc": "与产业链上下游企业建立战略合作关系，发挥各自优势，互补共赢，共建生态系统。",
+        "btn": "开启合作之旅"
+      },
+      "CooperationModal": {
+        "title": "开启合作之旅",
+        "subtitle": "我们期待与您的合作，请联系我们获取详细信息。",
+        "contact_info": {
+          "name_label": "姓名",
+          "phone_label": "电话",
+          "email_label": "邮箱"
+        }
+      }
+    },
+    "CooperativeDealers": {
+      "title": "合作经销商",
+      "subtitle": "全球",
+      "count": "60+",
+      "desc": "国家地区业务布局，百线相拥铸就辉煌，覆盖五大洲工商业地区。"
+    },
+    "CooperativeBrands": {
+      "title": "合作品牌"
+    }
+  },
+  "News": {
+    "banner_title": "新闻动态",
+    "banner_subtitle": "洞察时代脉搏",
+    "banner_desc": "让每一条新闻都成为智慧的火种",
+    "tabs": {
+      "success_case": "成功案例",
+      "industry": "行业动态",
+      "company": "企业风采"
+    },
+    "read_more": "阅读更多",
+    "days_ago": "天前",
+    "no_data": "暂无相关新闻",
+    "author": "作者",
+    "publish_time": "发布时间",
+    "views": "点击量",
+    "prev_post": "上一篇",
+    "next_post": "下一篇",
+    "back_to_list": "返回列表",
+    "no_more_posts": "没有更多文章了"
+  },
+  "CarSales": {
+    "banner_title": "整车销售",
+    "banner_subtitle": "链动全球·智享无忧",
+    "banner_desc": "从中国工厂到世界街头，全链路服务伴您全程",
+    "latest_models": {
+      "title": "最新车型",
+      "subtitle": "全球市场畅销车型，满足不同地区的多样化需求",
+      "library_title": "最新在售车型库",
+      "expand_view_more": "展开查看更多",
+      "collapse_view_more": "收起查看更多",
+      "get_quote": "获取报价",
+      "no_data": "暂无数据"
+    },
+    "recommended_models": {
+      "title": "推荐车型",
+      "subtitle": "全球市场畅销车型，满足不同地区的多样化需求",
+      "get_quote": "获取报价",
+      "no_data": "暂无数据"
+    },
+    "brand_models": {
+      "title": "品牌车型库",
+      "subtitle": "24小时内提供精准报价，48小时内快速响应客户需求",
+      "get_quote": "获取报价",
+      "no_data": "暂无数据"
+    },
+    "more_brands": {
+      "title": "更多品牌",
+      "subtitle": "与国内外知名汽车品牌建立了长期稳定的业务合作关系"
+    },
+    "custom_car": {
+      "title": "华融定制车（迪科）",
+      "subtitle": "根据市场需求定制车型",
+      "steps": {
+        "step1_title": "需求分析",
+        "step1_desc": "了解目标市场法规、用户偏好和特殊需求",
+        "step2_title": "配置定制",
+        "step2_desc": "定制动力系统、内饰、智能配置和外观设计",
+        "step3_title": "合规认证",
+        "step3_desc": "完成目标国家法规认证",
+        "step4_title": "量产交付",
+        "step4_desc": "根据订单计划排产、全程质量监控、准时交付"
+      }
+    },
+    "QuoteModal": {
+      "title": "联系我们",
+      "subtitle": "以专业立口碑，用服务赢信任，您的需求我们全力以赴。",
+      "agent_title": "优质经纪人"
+    }
+  },
+  "About": {
+    "title": "关于我们",
+    "description": "中国新能源汽车产业出海引领者",
+    "video_title": "智链无界 共赢有道",
+    "video_subtitle": "华融联大 · 中国汽车产业出海全链路赋能者",
+    "stats": {
+      "dealers": "合作经销商",
+      "countries": "覆盖国家",
+      "exports": "2024年出口车",
+      "parts": "汽车零部件种类",
+      "years": "商业领域"
+    },
+    "intro_description": "华融联大（重庆）科技有限公司是一家综合性汽车产业服务公司，专注于整车销售（含新能源汽车）、交通出行运营、专用车辆定制、汽车零部件销售、汽车拆解与再制造、以及汽车后市场服务与营销咨询，致力于打造一个高度融合、高效协同的汽车产业生态链闭环。",
+    "CustomerValue": {
+      "title": "强大的客户价值 将为您的业务\n带来巨大成就",
+      "cards": {
+        "team_power": {
+          "title": "团队实力",
+          "description": "核心团队成员均来自品牌主机厂，拥有20年以上汽车行业经验。公司核心团队曾服务于长安汽车、吉利汽车、奇瑞汽车、上汽、广汽等主流汽车品牌，具备技术支持、产品策划、营销推广、售后服务、客户关系等丰富的资源和实战经验。"
+        },
+        "rich_sources": {
+          "title": "车源丰富",
+          "description": "出口热销车型，包含在中国生产的日系、韩系、欧系、美系主流品牌车型，涵盖燃油版和新能源车源，满足客户不同需求。针对非洲市场推出改装定制车型和专用车辆。同时，与国内改装拆解公司合作提供整备二手车和再制造零部件服务。"
+        },
+        "cost_reduction": {
+          "title": "成本降低",
+          "description": "整合全球供应链资源，优化供应链流程，减少中间环节，规模化采购成本降低15%-20%。"
+        },
+        "efficiency": {
+          "title": "效率倍增",
+          "description": "建立高效报价系统，24小时内提供精准报价，48小时内快速响应客户需求，提供英语、俄语、西班牙语多种语言服务，缩短交付周期。\n采用先进的物流管理系统，实时跟踪货物状态，确保准时交付，提升客户满意度。"
+        },
+        "service_first": {
+          "title": "服务至上",
+          "description": "• 提供从采购、运输、清关、交付到售后的一站式服务，省心省力。\n• 根据客户需求，提供车型组合定制，满足不同市场与客户群体的特殊需求。\n• 设计灵活的金融方案，支持库存融资，缓解客户资金压力。\n• 为客户提供免费营销方案咨询、策划。"
+        }
+      },
+      "bottom_banner": {
+        "text": "以客户为中心，践行为客户创造价值，为客户解决问题的核心价值观",
+        "stats": {
+          "quote": "小时精准报价",
+          "response": "小时快速响应",
+          "guarantee": "交付保障"
+        }
+      }
+    },
+    "Recruitment": {
+      "title": "诚聘精英",
+      "subtitle": "在这里，你的每一份努力都有反馈，你的职业目标，我们帮你一起实现。",
+      "matrix": {
+        "title": "核心优势矩阵",
+        "items": {
+          "localization": {
+            "title": "深度本土化团队",
+            "desc": "覆盖全球12个核心市场本地化专业化团队"
+          },
+          "value_chain": {
+            "title": "全价值链覆盖",
+            "desc": "提供从制造到售后一站式全价值链服务力"
+          },
+          "policy": {
+            "title": "政策前置洞察",
+            "desc": "风险预警能力"
+          },
+          "data_driven": {
+            "title": "数据驱动决策",
+            "desc": "全球市场数据平台辅助战略制定"
+          }
+        }
+      },
+      "jobs": {
+        "apply_now": "立即申请",
+        "department": "所属部门",
+        "city": "工作城市",
+        "count": "招聘人数",
+        "person_unit": "人"
+      }
+    }
+  },
+  "ContactUs": {
+    "banner": {
+      "title": "联系我们",
+      "description": "联系我们即开启高效合作之旅！"
+    },
+    "contact_form": {
+      "title": "开启您的全球汽车业务新征程",
+      "subtitle": "无论您处于出海哪个阶段，我们都能提供专业的定制化解决方案",
+      "form_title": "联系我们",
+      "form_subtitle": "留下联系方式，24小时内获得专属咨询",
+      "name_placeholder": "姓名",
+      "phone_placeholder": "联系电话",
+      "email_placeholder": "电子邮箱",
+      "submit": "提交",
+      "submit_success": "提交成功！"
+    },
+    "global_presence": {
+      "title_1": "公司无处不在",
+      "title_2": "遍布全球"
+    }
+  }
+}
