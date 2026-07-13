@@ -1,0 +1,326 @@
+{
+  "Metadata": {
+    "brandName": "Huarong Lianda",
+    "title": "Huarong Lianda (Chongqing) Technology Co., Ltd. - Global Automotive Industry Ecosystem Platform",
+    "description": "Huarong Lianda specializes in vehicle sales, auto parts, customized vehicles, and global automotive industry services. As a promoter of China's automotive industry going global, we provide full-link solutions covering 80+ countries and regions.",
+    "keywords": "Huarong Lianda, Vehicle Export, Car Sales, Auto Parts, New Energy Vehicles, Automotive Export, Automotive Supply Chain"
+  },
+  "Navigation": {
+    "home": "Home",
+    "carSales": "Vehicle Sales",
+    "autoParts": "Auto Parts",
+    "news": "News & Trends",
+    "globalCooperation": "Global Cooperation",
+    "about": "About Huarong",
+    "contactUs": "Contact Us"
+  },
+  "Header": {
+    "slogan": "United to Advance, United to Prosper"
+  },
+  "Footer": {
+    "brandTitle": "Huarong Lianda",
+    "description": "Builder and enabler of China's automobile industry overseas ecosystem platform, assisting the global layout of China's automobile industry.",
+    "wechat": "WeChat Channels",
+    "quickLinks": "Quick Links",
+    "serviceAreas": "Service Areas",
+    "contact": "Contact Us",
+    "address": "Unit 402, Unit 5, Bldg 13, No. 18 Food City Ave, Liangjiang New Dist, Chongqing",
+    "email": "luoyun@huarongld.com",
+    "phone": "023-6747-2353",
+    "copyright": "© 2025 Huarong Lianda Co., Ltd. All Rights Reserved. ",
+    "link_home": "Home",
+    "link_about": "About Huarong",
+    "link_cases": "Success Cases",
+    "link_carSales": "Vehicle Sales & Customization",
+    "link_autoParts": "Auto Parts",
+    "link_globalCooperation": "Global Cooperation"
+  },
+  "Home": {
+    "slide1_title": "Full-Link Vehicle Export Service Provider\nCreating a New Engine for Global Trade",
+    "slide1_desc": "Direct Sourcing, Proxy Sourcing, Customization, Finance, Logistics, Bulk Procurement Costs Reduced by 20%",
+    "slide2_title": "Global Service, Mission Accomplished",
+    "slide2_desc": "Connecting key markets across five continents, building an efficient service network",
+    "slide3_title": "Over 200,000 Types of Spare Parts",
+    "slide3_desc": "Building a Supply Chain Moat Covering All Scenarios",
+    "slide4_title": "Becoming a World-Class Digital Low-Carbon Mobility Ecosystem Platform\nPromoter of China's Automotive Industry Going Global",
+    "slide4_desc": "Based on a global vision, creating a full-link solution for the automotive industry going global"
+  },
+  "CompanyIntro": {
+    "title": "Trusted Choice of Global Automotive Industry",
+    "subtitle": "Empowering Chinese Automotive Brands to Shine in the International Market",
+    "description": "Huarong Lianda (Chongqing) Technology Co., Ltd. is a comprehensive automotive industry service company, focusing on whole vehicle sales (including new energy vehicles), mobility operations, special vehicle customization, auto parts sales, vehicle dismantling and remanufacturing, as well as automotive aftermarket services and marketing consulting. We are committed to building a highly integrated and efficient closed-loop ecosystem for the automotive industry.",
+    "stat_dealers_label": "Cooperative Dealers",
+    "stat_countries_label": "Covered Countries & Regions",
+    "stat_export_label": "2024 Export Vehicles",
+    "stat_parts_label": "Auto Parts Categories",
+    "image_caption": "Uzbekistan 4S Store"
+  },
+  "Solutions": {
+    "title": "Full Value Chain Service Solutions",
+    "subtitle": "Two Major Tracks Assisting Chinese Automotive Enterprises in Global Layout",
+    "card1_title": "Vehicle Sales & Customization",
+    "card1_desc": "Providing multiple brands and models, covering sedans, pickups, SUVs, and commercial vehicles, meeting diverse global customer needs.",
+    "card1_link": "View Details",
+    "card2_title": "Auto Parts Sales",
+    "card2_desc": "Deep cooperation with OEMs and supporting manufacturers, with stable and continuous supply of over 200,000 types of parts.",
+    "card2_link": "View Details"
+  },
+  "SuccessCases": {
+    "title": "Success Cases",
+    "subtitle": "From Siberian cold to equatorial sun, our commitment to delivery remains unshaken. Every timely order delivery fulfills our responsibility in China's auto export. Every contract highlights global customer trust.",
+    "read_more": "Read More",
+    "view_more": "View More"
+  },
+  "StrategicPartners": {
+    "title": "Strategic Partners",
+    "subtitle": "Established strategic cooperation with mainstream domestic OEM brands such as Changan Minsheng Logistics, Sanyang Ma Logistics, Sinotrans, and China Import and Export Group."
+  },
+  "GlobalNetwork": {
+    "title": "Global Business Network Coverage",
+    "description": "We have established a comprehensive business network and partnerships globally, achieving a business layout in 80+ countries and regions, covering Asia, Europe, North America, South America, Africa, and Oceania. We provide comprehensive international service support for the automotive industry chain and assist Chinese automotive brands in going global.",
+    "stat_countries": "Countries Covered",
+    "stat_outlets": "Service Outlets",
+    "stat_partners": "Global Partners",
+    "stat_satisfaction": "Customer Satisfaction"
+  },
+  "NewsInsights": {
+    "title": "Industry Insights and Latest News",
+    "subtitle": "Grasp the cutting-edge trends of global automobile export",
+    "read_more": "Read More",
+    "view_more": "View More"
+  },
+  "AutoParts": {
+    "banner_title": "Auto Parts",
+    "banner_subtitle": "Global Cooperation, Model Supply",
+    "banner_desc": "Deep cooperation with OEMs and supporting manufacturers, supplying 200,000+ kinds of parts",
+    "GlobalMap": {
+      "title": "Auto Parts Regional Distribution Map",
+      "subtitle": "Precision craftsmanship, OEM quality, worry-free quality",
+      "stats": {
+        "middle_east": "Middle East",
+        "latin_america": "Latin America",
+        "africa": "Africa",
+        "southeast_asia": "Southeast Asia"
+      }
+    },
+    "PartsCatalog": {
+      "title": "Common Parts Catalog",
+      "subtitle": "Quality comes from details, confidence comes from guarantee"
+    },
+    "InteriorAccessories": {
+      "title": "Vehicle Interior Accessories",
+      "subtitle": "OEM Customization, Noble Choice / Navigation Available, Easy Installation"
+    }
+  },
+  "GlobalCooperation": {
+    "banner_title": "Win-Win Cooperation",
+    "banner_subtitle": "Complementary Advantages, Mutual Development",
+    "banner_desc": "Cooperation for Multiplied Value",
+    "CooperationModels": {
+      "title": "Cooperation Models",
+      "subtitle": "We are open to global partners, seeking win-win development, covering all aspects of global partnerships, pioneering and sailing together.",
+      "agent": {
+        "title": "Agent Cooperation",
+        "desc": "Incentivize overseas agents to jointly explore markets and share development results.",
+        "btn": "Start Cooperation"
+      },
+      "joint_venture": {
+        "title": "Joint Venture",
+        "desc": "Establish joint ventures for localized production, reducing costs and enhancing competitiveness.",
+        "btn": "Start Cooperation"
+      },
+      "alliance": {
+        "title": "Haichuan Alliance",
+        "desc": "Establish strategic partnerships with upstream and downstream enterprises to leverage mutual advantages and build an ecosystem.",
+        "btn": "Start Cooperation"
+      },
+      "CooperationModal": {
+        "title": "Start Cooperation Journey",
+        "subtitle": "We look forward to cooperating with you, please contact us for details.",
+        "contact_info": {
+          "name_label": "Name",
+          "phone_label": "Phone",
+          "email_label": "Email"
+        }
+      }
+    },
+    "CooperativeDealers": {
+      "title": "Cooperative Dealers",
+      "subtitle": "Global",
+      "count": "60+",
+      "desc": "Countries and regions covered, building brilliance together, covering industrial and commercial areas across five continents."
+    },
+    "CooperativeBrands": {
+      "title": "Cooperative Brands"
+    }
+  },
+  "News": {
+    "banner_title": "News",
+    "banner_subtitle": "Insight into the Pulse of the Times",
+    "banner_desc": "Let every piece of news become a spark of wisdom",
+    "tabs": {
+      "success_case": "Success Cases",
+      "industry": "Industry News",
+      "company": "Company Profile"
+    },
+    "read_more": "Read More",
+    "days_ago": " days ago",
+    "no_data": "No news available",
+    "author": "Author",
+    "publish_time": "Time",
+    "views": "Views",
+    "prev_post": "Previous",
+    "next_post": "Next",
+    "back_to_list": "Back to List",
+    "no_more_posts": "No more posts"
+  },
+  "CarSales": {
+    "banner_title": "Vehicle Sales",
+    "banner_subtitle": "Connect Global·Enjoy Worry-Free",
+    "banner_desc": "From Chinese factories to world streets, full-link service accompanies you throughout",
+    "latest_models": {
+      "title": "Latest Models",
+      "subtitle": "Best-selling models in the global market, meeting diverse regional needs",
+      "library_title": "Latest Vehicle Inventory",
+      "expand_view_more": "Expand to View More",
+      "collapse_view_more": "Collapse View More",
+      "get_quote": "Get Quote",
+      "no_data": "No Data Available"
+    },
+    "recommended_models": {
+      "title": "Recommended Models",
+      "subtitle": "Best-selling models in the global market, meeting diverse needs in different regions",
+      "get_quote": "Get Quote",
+      "no_data": "No Data"
+    },
+    "brand_models": {
+      "title": "Brand Vehicle Library",
+      "subtitle": "Provide accurate quotes within 24 hours, respond to customer needs within 48 hours",
+      "get_quote": "Get Quote",
+      "no_data": "No Data"
+    },
+    "more_brands": {
+      "title": "More Brands",
+      "subtitle": "Established long-term stable business cooperative relations with well-known domestic and foreign automobile brands"
+    },
+    "custom_car": {
+      "title": "Huarong Customized Car (Dike)",
+      "subtitle": "Customize models according to market demand",
+      "steps": {
+        "step1_title": "Demand Analysis",
+        "step1_desc": "Understand target market regulations, user preferences and special needs",
+        "step2_title": "Configuration Customization",
+        "step2_desc": "Customize power system, interior, intelligent configuration and exterior design",
+        "step3_title": "Compliance Certification",
+        "step3_desc": "Complete target country regulatory certification",
+        "step4_title": "Mass Production Delivery",
+        "step4_desc": "Schedule production according to orders, full process quality monitoring, on-time delivery"
+      }
+    },
+    "QuoteModal": {
+      "title": "Contact Us",
+      "subtitle": "Building reputation with professionalism, winning trust with service, we go all out for your needs.",
+      "agent_title": "Premium Agent"
+    }
+  },
+  "About": {
+    "title": "About Us",
+    "description": "Leader in China's New Energy Vehicle Industry Going Global",
+    "video_title": "Smart Chain Without Borders, Win-Win with Principles",
+    "video_subtitle": "Huarong Lianda · Enabler of the Full Chain of China's Auto Industry Going Global",
+    "stats": {
+      "dealers": "Cooperative Dealers",
+      "countries": "Countries Covered",
+      "exports": "Vehicles Exported in 2024",
+      "parts": "Types of Auto Parts",
+      "years": "Years in Business"
+    },
+    "intro_description": "Huarong Lianda (Chongqing) Technology Co., Ltd. is a comprehensive automotive industry service company, focusing on complete vehicle sales (including new energy vehicles), transportation operations, special vehicle customization, auto parts sales, vehicle dismantling and remanufacturing, as well as automotive aftermarket services and marketing consulting, dedicated to creating a highly integrated and efficiently collaborative closed-loop ecosystem for the automotive industry.",
+    "CustomerValue": {
+      "title": "Powerful Customer Value Will Bring\nHuge Success to Your Business",
+      "cards": {
+        "team_power": {
+          "title": "Team Strength",
+          "description": "Core team members come from brand OEMs with over 20 years of automotive industry experience. The core team has served mainstream automotive brands such as Changan, Geely, Chery, SAIC, and GAC, possessing rich resources and practical experience in technical support, product planning, marketing promotion, after-sales service, and customer relations."
+        },
+        "rich_sources": {
+          "title": "Rich Vehicle Sources",
+          "description": "Exporting best-selling models, including mainstream Japanese, Korean, European, and American brand models produced in China, covering fuel and new energy vehicles to meet different customer needs. Customized models and special vehicles are launched for the African market. At the same time, we cooperate with domestic modification and dismantling companies to provide refurbished used cars and remanufactured parts services."
+        },
+        "cost_reduction": {
+          "title": "Cost Reduction",
+          "description": "Integrating global supply chain resources, optimizing supply chain processes, reducing intermediate links, and reducing large-scale procurement costs by 15%-20%."
+        },
+        "efficiency": {
+          "title": "Efficiency Doubling",
+          "description": "Establishing an efficient quotation system to provide accurate quotes within 24 hours, respond quickly to customer needs within 48 hours, and provide multilingual services in English, Russian, and Spanish to shorten the delivery cycle.\nAdopting advanced logistics management systems to track cargo status in real-time, ensuring on-time delivery and improving customer satisfaction."
+        },
+        "service_first": {
+          "title": "Service First",
+          "description": "• Provide one-stop services from procurement, transportation, customs clearance, delivery to after-sales, saving worry and effort.\n• Provide customized vehicle portfolio based on customer needs to meet the special needs of different markets and customer groups.\n• Design flexible financial solutions to support inventory financing and relieve customer financial pressure.\n• Provide free marketing plan consultation and planning for customers."
+        }
+      },
+      "bottom_banner": {
+        "text": "Customer-centric, practicing core values of creating value for customers and solving problems for customers",
+        "stats": {
+          "quote": "Hours Accurate Quote",
+          "response": "Hours Fast Response",
+          "guarantee": "Delivery Guarantee"
+        }
+      }
+    },
+    "Recruitment": {
+      "title": "Join Us",
+      "subtitle": "Here, every effort you make has feedback, and we help you achieve your career goals together.",
+      "matrix": {
+        "title": "Core Advantage Matrix",
+        "items": {
+          "localization": {
+            "title": "Deeply Localized Team",
+            "desc": "Localized professional teams covering 12 core markets globally"
+          },
+          "value_chain": {
+            "title": "Full Value Chain Coverage",
+            "desc": "One-stop full value chain service capability from manufacturing to after-sales"
+          },
+          "policy": {
+            "title": "Policy Foresight",
+            "desc": "Risk warning capability"
+          },
+          "data_driven": {
+            "title": "Data-Driven Decision Making",
+            "desc": "Global market data platform assisting strategy formulation"
+          }
+        }
+      },
+      "jobs": {
+        "apply_now": "Apply Now",
+        "department": "Department",
+        "city": "Location",
+        "count": "Vacancies",
+        "person_unit": " person(s)"
+      }
+    }
+  },
+  "ContactUs": {
+    "banner": {
+      "title": "Contact Us",
+      "description": "Contact us to start an efficient cooperation journey!"
+    },
+    "contact_form": {
+      "title": "Start Your New Journey in Global Automotive Business",
+      "subtitle": "No matter what stage of going global you are in, we can provide professional customized solutions",
+      "form_title": "Contact Us",
+      "form_subtitle": "Leave your contact information for exclusive consultation within 24 hours",
+      "name_placeholder": "Name",
+      "phone_placeholder": "Phone Number",
+      "email_placeholder": "Email",
+      "submit": "Submit",
+      "submit_success": "Submitted successfully!"
+    },
+    "global_presence": {
+      "title_1": "Company Everywhere,",
+      "title_2": "Spanning the Globe"
+    }
+  }
+}

@@ -1,0 +1,320 @@
+{
+  "Navigation": {
+    "home": "Inicio",
+    "carSales": "Venta de Vehículos",
+    "autoParts": "Piezas de Automóvil",
+    "news": "Noticias y Tendencias",
+    "globalCooperation": "Cooperación Global",
+    "about": "Acerca de Huarong",
+    "contactUs": "Contáctenos"
+  },
+  "Header": {
+    "slogan": "Unidos para Avanzar, Unidos para Prospera"
+  },
+  "Footer": {
+    "brandTitle": "Huarong Lianda",
+    "description": "Constructor y facilitador de la plataforma ecológica de la industria automotriz china en el extranjero, asistiendo en el diseño global de la industria automotriz china.",
+    "wechat": "Canal de vídeo de WeChat",
+    "quickLinks": "Enlaces Rápidos",
+    "serviceAreas": "Áreas de Servicio",
+    "contact": "Contáctenos",
+    "address": "Unidad 402, Edif 13, No. 18 Food City Ave, Nuevo Distrito de Liangjiang, Chongqing",
+    "email": "luoyun@huarongld.com",
+    "phone": "023-6747-2353",
+    "copyright": "© 2025 Huarong Lianda Co., Ltd. Todos los derechos reservados. ",
+    "link_home": "Inicio",
+    "link_about": "Sobre Huarong",
+    "link_cases": "Casos de Éxito",
+    "link_carSales": "Venta y Personalización de Vehículos",
+    "link_autoParts": "Autopartes",
+    "link_globalCooperation": "Cooperación Global"
+  },
+  "Home": {
+    "slide1_title": "Proveedor de Servicios de Exportación de Vehículos de Enlace Completo\nCreando un Nuevo Motor para el Comercio Global",
+    "slide1_desc": "Compra Directa, Compra por Poder, Personalización, Finanzas, Logística, Costos de Compra a Gran Escala Reducidos en un 20%",
+    "slide2_title": "Servicio Global, Misión Cumplida",
+    "slide2_desc": "Conectando mercados clave en los cinco continentes, construyendo una red de servicios eficiente",
+    "slide3_title": "Más de 200,000 Tipos de Repuestos",
+    "slide3_desc": "Construyendo un Foso de Cadena de Suministro que Cubre Todos los Escenarios",
+    "slide4_title": "Convertirse en una Plataforma de Ecosistema de Movilidad Digital Baja en Carbono de Clase Mundial\nPromotor de la Internacionalización de la Industria Automotriz China",
+    "slide4_desc": "Basado en una visión global, creando una solución de enlace completo para la internacionalización de la industria automotriz"
+  },
+  "CompanyIntro": {
+    "title": "La Elección Confiable de la Industria Automotriz Global",
+    "subtitle": "Ayudando a las Marcas de Automóviles Chinas a Brillar en el Mercado Internacional",
+    "description": "Huarong Lianda (Chongqing) Technology Co., Ltd. es una empresa de servicios integrales de la industria automotriz, centrada en la venta de vehículos completos (incluidos vehículos de nueva energía), operaciones de movilidad, personalización de vehículos especiales, venta de autopartes, desmantelamiento y remanufactura de vehículos, así como servicios de posventa automotriz y consultoría de marketing. Estamos comprometidos a construir un ecosistema de circuito cerrado altamente integrado y eficiente para la industria automotriz.",
+    "stat_dealers_label": "Distribuidores Cooperativos",
+    "stat_countries_label": "Países y Regiones Cubiertos",
+    "stat_export_label": "Vehículos Exportados en 2024",
+    "stat_parts_label": "Categorías de Autopartes",
+    "image_caption": "Tienda 4S en Uzbekistán"
+  },
+  "Solutions": {
+    "title": "Soluciones de Servicio de Cadena de Valor Completa",
+    "subtitle": "Dos Vías Principales Ayudando a las Empresas Automotrices Chinas en el Diseño Global",
+    "card1_title": "Venta y Personalización de Vehículos",
+    "card1_desc": "Proporcionando múltiples marcas y modelos, cubriendo sedanes, camionetas, SUV y vehículos comerciales, satisfaciendo diversas necesidades globales de los clientes.",
+    "card1_link": "Ver Detalles",
+    "card2_title": "Venta de Autopartes",
+    "card2_desc": "Cooperación profunda con OEMs y fabricantes de soporte, con suministro estable y continuo de más de 200,000 tipos de piezas.",
+    "card2_link": "Ver Detalles"
+  },
+  "SuccessCases": {
+    "title": "Casos de Éxito",
+    "subtitle": "Desde el frío siberiano hasta el sol ecuatorial, nuestro compromiso de entrega permanece inquebrantable. Cada entrega oportuna cumple con nuestra responsabilidad en la exportación de automóviles de China. Cada contrato destaca la confianza del cliente global.",
+    "read_more": "Leer Más",
+    "view_more": "Ver Más"
+  },
+  "StrategicPartners": {
+    "title": "Socios Estratégicos",
+    "subtitle": "Cooperación estratégica establecida con marcas OEM nacionales convencionales como Changan Minsheng Logistics, Sanyang Ma Logistics, Sinotrans y China Import and Export Group."
+  },
+  "GlobalNetwork": {
+    "title": "Cobertura de Red de Negocios Global",
+    "description": "Hemos establecido una red de negocios y asociaciones integral a nivel mundial, logrando un diseño comercial en más de 80 países y regiones, cubriendo Asia, Europa, América del Norte, América del Sur, África y Oceanía. Brindamos soporte de servicio internacional integral para la cadena de la industria automotriz y ayudamos a las marcas automotrices chinas a globalizarse.",
+    "stat_countries": "Países Cubiertos",
+    "stat_outlets": "Puntos de Servicio",
+    "stat_partners": "Socios Globales",
+    "stat_satisfaction": "Satisfacción del Cliente"
+  },
+  "NewsInsights": {
+    "title": "Perspectivas de la Industria y Últimas Noticias",
+    "subtitle": "Comprenda las tendencias de vanguardia de la exportación mundial de automóviles",
+    "read_more": "Leer Más",
+    "view_more": "Ver Más"
+  },
+  "AutoParts": {
+    "banner_title": "Autopartes",
+    "banner_subtitle": "Cooperación Global, Suministro de Modelos",
+    "banner_desc": "Cooperación profunda con OEM y fabricantes de soporte, suministrando más de 200,000 tipos de piezas",
+    "GlobalMap": {
+      "title": "Mapa de Distribución Regional de Autopartes",
+      "subtitle": "Artesanía de precisión, calidad OEM, calidad sin preocupaciones",
+      "stats": {
+        "middle_east": "Medio Oriente",
+        "latin_america": "América Latina",
+        "africa": "África",
+        "southeast_asia": "Sudeste Asiático"
+      }
+    },
+    "PartsCatalog": {
+      "title": "Catálogo de Piezas Comunes",
+      "subtitle": "La calidad viene de los detalles, la confianza viene de la garantía"
+    },
+    "InteriorAccessories": {
+      "title": "Accesorios Interiores de Vehículos",
+      "subtitle": "Personalización OEM, Elección Noble / Navegación Disponible, Fácil Instalación"
+    }
+  },
+  "GlobalCooperation": {
+    "banner_title": "Cooperación Ganar-Ganar",
+    "banner_subtitle": "Ventajas Complementarias, Desarrollo Mutuo",
+    "banner_desc": "Cooperación para Multiplicar el Valor",
+    "CooperationModels": {
+      "title": "Modelos de Cooperación",
+      "subtitle": "Estamos abiertos a socios globales, buscando un desarrollo ganar-ganar, cubriendo todos los aspectos de las asociaciones globales.",
+      "agent": {
+        "title": "Cooperación de Agentes",
+        "desc": "Incentivar a los agentes extranjeros para explorar mercados conjuntamente y compartir resultados.",
+        "btn": "Iniciar Cooperación"
+      },
+      "joint_venture": {
+        "title": "Empresa Conjunta",
+        "desc": "Establecer empresas conjuntas para la producción localizada, reduciendo costos y mejorando la competitividad.",
+        "btn": "Iniciar Cooperación"
+      },
+      "alliance": {
+        "title": "Alianza Haichuan",
+        "desc": "Establecer asociaciones estratégicas con empresas upstream y downstream para aprovechar ventajas mutuas.",
+        "btn": "Iniciar Cooperación"
+      },
+      "CooperationModal": {
+        "title": "Iniciar Viaje de Cooperación",
+        "subtitle": "Esperamos cooperar con usted, contáctenos para más detalles.",
+        "contact_info": {
+          "name_label": "Nombre",
+          "phone_label": "Teléfono",
+          "email_label": "Correo electrónico"
+        }
+      }
+    },
+    "CooperativeDealers": {
+      "title": "Distribuidores Cooperativos",
+      "subtitle": "Global",
+      "count": "60+",
+      "desc": "Países y regiones cubiertos, construyendo brillantez juntos, cubriendo áreas industriales y comerciales en cinco continentes."
+    },
+    "CooperativeBrands": {
+      "title": "Marcas Cooperativas"
+    }
+  },
+  "News": {
+    "banner_title": "Noticias",
+    "banner_subtitle": "Perspicacia del Pulso de los Tiempos",
+    "banner_desc": "Que cada noticia se convierta en una chispa de sabiduría",
+    "tabs": {
+      "success_case": "Casos de Éxito",
+      "industry": "Noticias de la Industria",
+      "company": "Perfil de la Empresa"
+    },
+    "read_more": "Leer Más",
+    "days_ago": " días atrás",
+    "no_data": "No hay noticias disponibles",
+    "author": "Autor",
+    "publish_time": "Hora",
+    "views": "Vistas",
+    "prev_post": "Anterior",
+    "next_post": "Siguiente",
+    "back_to_list": "Volver a la lista",
+    "no_more_posts": "No hay más publicaciones"
+  },
+  "CarSales": {
+    "banner_title": "Venta de Vehículos",
+    "banner_subtitle": "Conexión Global · Disfrute sin Preocupaciones",
+    "banner_desc": "Desde las fábricas chinas hasta las calles del mundo, servicio completo en todo el proceso",
+    "latest_models": {
+      "title": "Últimos Modelos",
+      "subtitle": "Modelos más vendidos en el mercado global, satisfaciendo diversas necesidades regionales",
+      "library_title": "Inventario de Vehículos Recientes",
+      "expand_view_more": "Ver Más",
+      "collapse_view_more": "Ver Menos",
+      "get_quote": "Obtener Cotización",
+      "no_data": "No hay datos disponibles"
+    },
+    "recommended_models": {
+      "title": "Modelos Recomendados",
+      "subtitle": "Modelos más vendidos a nivel mundial que satisfacen diversas necesidades regionales",
+      "get_quote": "Obtener Cotización",
+      "no_data": "No hay datos disponibles"
+    },
+    "brand_models": {
+      "title": "Biblioteca de Vehículos de Marca",
+      "subtitle": "Proporcionar cotizaciones precisas en 24 horas, responder a las necesidades del cliente en 48 horas",
+      "get_quote": "Obtener Cotización",
+      "no_data": "No hay datos disponibles"
+    },
+    "more_brands": {
+      "title": "Más Marcas",
+      "subtitle": "Relaciones de cooperación comercial estables a largo plazo establecidas con marcas de automóviles nacionales y extranjeras conocidas"
+    },
+    "custom_car": {
+      "title": "Vehículo Personalizado Huarong (Dike)",
+      "subtitle": "Personalización de modelos según la demanda del mercado",
+      "steps": {
+        "step1_title": "Análisis de Demanda",
+        "step1_desc": "Entender las regulaciones del mercado objetivo, preferencias de usuarios y necesidades especiales",
+        "step2_title": "Personalización de Configuración",
+        "step2_desc": "Personalizar sistema de potencia, interior, configuración inteligente y diseño exterior",
+        "step3_title": "Certificación de Cumplimiento",
+        "step3_desc": "Completar certificación regulatoria del país objetivo",
+        "step4_title": "Entrega de Producción en Masa",
+        "step4_desc": "Programar producción según pedidos, monitoreo de calidad en todo el proceso, entrega a tiempo"
+      }
+    },
+    "QuoteModal": {
+      "title": "Contáctenos",
+      "subtitle": "Construyendo reputación con profesionalismo, ganando confianza con servicio, hacemos todo lo posible por sus necesidades.",
+      "agent_title": "Agente Premium"
+    }
+  },
+  "About": {
+    "title": "Sobre Nosotros",
+    "description": "Líder en la Internacionalización de la Industria China de Vehículos de Nueva Energía",
+    "video_title": "Cadena Inteligente Sin Fronteras, Ganar-Ganar con Principios",
+    "video_subtitle": "Huarong Lianda · Facilitador de la Cadena Completa de la Industria Automotriz China hacia el Mundo",
+    "stats": {
+      "dealers": "Distribuidores Cooperativos",
+      "countries": "Países Cubiertos",
+      "exports": "Vehículos Exportados en 2024",
+      "parts": "Tipos de Autopartes",
+      "years": "Años en el Negocio"
+    },
+    "intro_description": "Huarong Lianda (Chongqing) Technology Co., Ltd. es una empresa de servicios integrales de la industria automotriz, centrada en la venta de vehículos completos (incluidos vehículos de nueva energía), operaciones de transporte, personalización de vehículos especiales, venta de autopartes, desmantelamiento y remanufactura de vehículos, así como servicios de posventa automotriz y consultoría de marketing, dedicada a crear un ecosistema de circuito cerrado altamente integrado y eficientemente colaborativo para la industria automotriz.",
+    "CustomerValue": {
+      "title": "Un Poderoso Valor para el Cliente Traerá\nUn Enorme Éxito a Su Negocio",
+      "cards": {
+        "team_power": {
+          "title": "Fortaleza del Equipo",
+          "description": "Los miembros principales del equipo provienen de fabricantes de marcas originales con más de 20 años de experiencia en la industria automotriz. El equipo principal ha servido a marcas automotrices convencionales como Changan, Geely, Chery, SAIC y GAC, poseyendo ricos recursos y experiencia práctica en soporte técnico, planificación de productos, promoción de marketing, servicio posventa y relaciones con los clientes."
+        },
+        "rich_sources": {
+          "title": "Fuentes Ricas",
+          "description": "Modelos de exportación más vendidos, incluyendo marcas convencionales japonesas, coreanas, europeas y americanas producidas en China, cubriendo versiones de combustible y nueva energía, satisfaciendo las diferentes necesidades de los clientes. Lanzamiento de modelos personalizados y vehículos especiales para el mercado africano. Al mismo tiempo, cooperación con empresas nacionales de modificación y desmantelamiento para proporcionar servicios de vehículos usados reacondicionados y piezas remanufacturadas."
+        },
+        "cost_reduction": {
+          "title": "Reducción de Costos",
+          "description": "Integrar recursos globales de la cadena de suministro, optimizar los procesos de la cadena de suministro, reducir los enlaces intermedios y reducir los costos de adquisición a gran escala en un 15%-20%."
+        },
+        "efficiency": {
+          "title": "Multiplicación de la Eficiencia",
+          "description": "Establecer un sistema de cotización eficiente, proporcionar cotizaciones precisas en 24 horas, responder rápidamente a las necesidades del cliente en 48 horas, proporcionar servicios en inglés, ruso, español y otros idiomas, acortando el ciclo de entrega.\nAdoptar un sistema avanzado de gestión logística, rastrear el estado de la carga en tiempo real, asegurar la entrega a tiempo y mejorar la satisfacción del cliente."
+        },
+        "service_first": {
+          "title": "Servicio Primero",
+          "description": "• Proporcionar un servicio integral desde la adquisición, transporte, despacho de aduanas, entrega hasta la posventa, sin preocupaciones y ahorrando esfuerzo.\n• Según las necesidades del cliente, proporcionar personalización de combinaciones de modelos para satisfacer las necesidades especiales de diferentes mercados y grupos de clientes.\n• Diseñar planes financieros flexibles, apoyar el financiamiento de inventario y aliviar la presión financiera del cliente.\n• Proporcionar consultoría y planificación de marketing gratuitas para los clientes."
+        }
+      },
+      "bottom_banner": {
+        "text": "Centrado en el cliente, practicando los valores fundamentales de crear valor para los clientes y resolver problemas para los clientes",
+        "stats": {
+          "quote": "Horas para Cotización Precisa",
+          "response": "Horas para Respuesta Rápida",
+          "guarantee": "Garantía de Entrega"
+        }
+      }
+    },
+    "Recruitment": {
+      "title": "Únase a Nosotros",
+      "subtitle": "Aquí, cada esfuerzo que haces tiene retroalimentación, y te ayudamos a lograr tus objetivos profesionales juntos.",
+      "matrix": {
+        "title": "Matriz de Ventajas Clave",
+        "items": {
+          "localization": {
+            "title": "Equipo Profundamente Localizado",
+            "desc": "Equipos profesionales localizados que cubren 12 mercados clave a nivel mundial"
+          },
+          "value_chain": {
+            "title": "Cobertura de Cadena de Valor Completa",
+            "desc": "Capacidad de servicio de cadena de valor completa desde la fabricación hasta la posventa"
+          },
+          "policy": {
+            "title": "Visión de Política",
+            "desc": "Capacidad de advertencia de riesgos"
+          },
+          "data_driven": {
+            "title": "Toma de Decisiones Basada en Datos",
+            "desc": "Plataforma de datos de mercado global que asiste en la formulación de estrategias"
+          }
+        }
+      },
+      "jobs": {
+        "apply_now": "Aplica Ahora",
+        "department": "Departamento",
+        "city": "Ciudad",
+        "count": "Vacantes",
+        "person_unit": " personas"
+      }
+    }
+  },
+  "ContactUs": {
+    "banner": {
+      "title": "Contáctenos",
+      "description": "¡Contáctenos para iniciar un viaje de cooperación eficiente!"
+    },
+    "contact_form": {
+      "title": "Comience su Nuevo Viaje en el Negocio Automotriz Global",
+      "subtitle": "No importa en qué etapa de expansión global se encuentre, podemos proporcionar soluciones personalizadas profesionales",
+      "form_title": "Contáctenos",
+      "form_subtitle": "Deje su información de contacto para una consulta exclusiva dentro de las 24 horas",
+      "name_placeholder": "Nombre",
+      "phone_placeholder": "Número de Teléfono",
+      "email_placeholder": "Correo Electrónico",
+      "submit": "Enviar",
+      "submit_success": "¡Enviado con éxito!"
+    },
+    "global_presence": {
+      "title_1": "Empresa en todas partes,",
+      "title_2": "abarcando el mundo"
+    }
+  }
+}
