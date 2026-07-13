@@ -39,7 +39,7 @@
 					<a-form-item label="车系品牌" name="brandId" :rules="{ required: true, message: '请选择品牌' }">
 						<a-select
 							v-model:value="formData.brandId"
-							placeholder="请选择车系品牌"
+							placeholder="请选择车系品牌。"
 							:options="brandOptions"
 							allow-clear
 						/>
